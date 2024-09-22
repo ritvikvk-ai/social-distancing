@@ -1,4 +1,4 @@
-# social-distancing
+# Real-Time Object Detection for Social Distancing
 ** Site under update **
 
 ## LinkedIn
